@@ -8,7 +8,7 @@ return array(
 	|--------------------------------------------------------------------------
 	*/
 
-	'id' => 'flatturtle',
+	'id' => 'pegasuspark',
 
 
 	/*
@@ -40,7 +40,7 @@ return array(
 	|--------------------------------------------------------------------------
 	*/
 
-	'logo' => 'images/pegasus.png',
+	'logo' => 'https://my.flatturtle.com/uploads/pegasuspark/logo.png',
 
 
 	/*
